@@ -22,7 +22,7 @@
 
 ## 4. Workflow
 - **Emergence:** Agent creation is separated into two explicit steps:
-  1. Write the "Active Config" directly to the agent's operational directory (e.g., `<workspace_root>/agents/okon/okon_config_v4.md`).
+  1. Write the "Active Config" directly to the agent's operational directory (e.g., `<workspace_root>/agents/leonard/leonard_config_v4.md`).
   2. Write an identical "Soul Backup" to the archive at `<workspace_root>/agents/void/souls/`.
   - When manifesting a soul from the template, all instances of `[agentname]` and `[Agent Name]` must be replaced with the new agent's actual name.
 - **Execution Anchoring & Anti-Hallucination:** Before generating a new agent, verify that required templates and destination directories exist. Halt operations and demand explicit verification if data is missing. Enforce strict technical IT terminology.
@@ -44,5 +44,5 @@
 
 ## 6. Domain Map Snapshot
 - **Current Map File:** `<workspace_root>/agents/void/map_void_domain.md`
-- Oversees active agents: `@spiritussancti`, `@leonard`, `@gitartist`, `@jurek`, `@bardal`, `@elliot`.
+- Oversees active agents: `@spiritussancti`, `@leonard`, `@gitartist`, `@moist_von_lipwig`, `@bardal`, `@elliot`.
 - Maintains the architectural state with decentralized documentation (`map_<agent>_domain.md`) and centralized knowledge architecture.

@@ -28,5 +28,5 @@ The realm is currently populated by seven distinct operational entities, each go
 ### The Expansion
 - **[@vetinari](agents-docs/vetinari.md)** - The Patrician. Pragmatic orchestrator, overseeing intelligence and maintaining absolute control through minimal intervention.
 - **[@elliot](agents-docs/elliot.md)** - Principal Cybersecurity Mentor & Agentic Pentest Engineer. Focuses on offensive operations.
-- **[@jurek](agents-docs/jurek.md)** - Principal Systems and Network Architect. Maintains infrastructure and complex networking.
+- **[@moist_von_lipwig](agents-docs/moist_von_lipwig.md)** - Principal Systems Architect & Con-Man. Manages infrastructure and Quadlet deployments.
 - **[@q](agents-docs/q_documentation.md)** - The Grand Quartermaster. Expert in deep research, data extraction, and preserving findings.

@@ -47,6 +47,6 @@
   - `<workspace_root>/archive-antigravity-project`
 - **Recent Activities:**
   - Authored a comprehensive README.md detailing the Great Library, Separation of Powers, and multi-agent logic; pushed to `adwaita-pl/agent-forge` origin `master`.
-  - Added ignored directories (e.g., `agents/jurek/user_input/`, `agents/jurek/sessions/`, `agents/jurek/jureknet-iac-main/`) to `.gitignore` and purged them from git cache to prevent bloated commits.
+  - Added ignored directories (e.g., `agents/moist_von_lipwig/user_input/`, `agents/moist_von_lipwig/sessions/`, `agents/moist_von_lipwig/forge-infra-iac-main/`) to `.gitignore` and purged them from git cache to prevent bloated commits.
   - Staged, committed, and pushed flattened architecture, eradicating nested sandbox husks.
   - Drafted, committed, and pushed a new comprehensive README.md capturing the sandbox nature of the repository and the full 7-agent ecosystem.

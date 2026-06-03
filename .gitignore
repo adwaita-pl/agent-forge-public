@@ -1,6 +1,6 @@
-agents/jurek/user_input/
-agents/jurek/sessions/
-agents/jurek/jureknet-iac-main/
+agents/moist_von_lipwig/user_input/
+agents/moist_von_lipwig/sessions/
+agents/moist_von_lipwig/forge-infra-iac-main/
 
 # OPSEC Loop 4 Enforcement: Prevent internal state leakage
 healthcheck_logs.txt

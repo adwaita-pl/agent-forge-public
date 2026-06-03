@@ -1,0 +1,19 @@
+agents/jurek/user_input/
+agents/jurek/sessions/
+agents/jurek/jureknet-iac-main/
+
+# OPSEC Loop 4 Enforcement: Prevent internal state leakage
+healthcheck_logs.txt
+*.log
+logs/
+user_input/logs/
+repo_audit/
+
+# Agent Operational Data
+local_knowledge.jsonl
+central_archive.jsonl
+map_*_domain.md
+map_*_inventions.md
+map_*_coreos.md
+map_*_client.md
+map_*_audits.md
